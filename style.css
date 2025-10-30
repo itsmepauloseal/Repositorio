@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "Archivo Black";
+    src: url(fontes/ArchivoBlack-Regular.ttf);
+}
+
+header{
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+}
+
+header > .titulo{
+    color:red;
+    font-family: "Archivo Black";
+
+}
+
+.container{
+    margin: auto;
+    text-align: center;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+   
+}
