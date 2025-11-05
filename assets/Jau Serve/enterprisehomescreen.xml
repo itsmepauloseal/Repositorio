@@ -7,7 +7,7 @@
     <application label="StageNow" package="com.symbol.tool.stagenow"/>
   </tools>
   <passwords>
-		<admin attempts="1">02bRDkmVi8lf4SoUvL3DIym8NY/6GMEzXUIakMX+xSM=U77bsKJrSw0SSbwEWmE0yVI6cofK/FO+KC5NVmdeTbU=</admin>
+    <admin attempts="1">02bRDkmVi8lf4SoUvL3DIym8NY/6GMEzXUIakMX+xSM=U77bsKJrSw0SSbwEWmE0yVI6cofK/FO+KC5NVmdeTbU=</admin>
   </passwords>
   <user_options>
     <icon_settings>
@@ -21,7 +21,7 @@
     <kiosk_mode_enabled>0</kiosk_mode_enabled>
     <admin_inactivity_timeout>300</admin_inactivity_timeout>
     <orientation>portrait</orientation>
-    <wallpaper/>
+    <wallpaper>/enterprise/usr/logo3.jpg</wallpaper>
     <icon_label_text_color>#FFFFFFFF</icon_label_text_color>
     <recent_apps_button_disabled>1</recent_apps_button_disabled>
     <auto_launch_enable>0</auto_launch_enable>
