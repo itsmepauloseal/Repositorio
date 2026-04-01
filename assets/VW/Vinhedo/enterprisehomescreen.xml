@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><config>
+  <kiosk/>
+  <applications>
+    <application label="EnterpriseBrowser" package="com.zebra.mdna.enterprisebrowser" activity="com.rhomobile.rhodes.RhodesActivity"/>
+  </applications>
+  <tools/>
+  <passwords>
+		<admin attempts="1">g495i4ftQ8CYumswKQiijpp84hQ8LDbIbIrfQG65hnE=BSHggsPzuu6mg9mVe0njWedSesS2OuQ8JAyv5rEFi6o=</admin>
+  </passwords>
+  <user_options>
+    <icon_settings>
+      <app_icon_size>M</app_icon_size>
+    </icon_settings>
+  </user_options>
+  <preferences>
+    <orientation>portrait</orientation>
+    <wallpaper>/enterprise/usr/logo-man-vinhedo.png</wallpaper>
+    <usb_debugging_disabled>1</usb_debugging_disabled>
+    <icon_label_text_color>#ffffffff</icon_label_text_color>
+    <recent_apps_button_disabled>1</recent_apps_button_disabled>
+    <auto_launch_enable>0</auto_launch_enable>
+    <wallpaper_stretching_enabled>0</wallpaper_stretching_enabled>
+    <system_settings_restricted>1</system_settings_restricted>
+    <recent_apps_access_disabled>1</recent_apps_access_disabled>
+    <icon_label_background_color>#6c8f7b7b</icon_label_background_color>
+    <kiosk_mode_enabled>0</kiosk_mode_enabled>
+    <title>
+      <value>VW;#32;VINHEDO;#32;#32;[serial_number]</value>
+    </title>
+    <title_bar_icon>
+      <title_bar_icon_file>/enterprise/usr/vw-logo.png</title_bar_icon_file>
+    </title_bar_icon>
+    <admin_lock_out>
+      <recovery_enabled>1</recovery_enabled>
+      <recovery_timeout>15</recovery_timeout>
+    </admin_lock_out>
+    <wireless_info>
+      <show_ip_address>1</show_ip_address>
+      <show_mac_address>1</show_mac_address>
+      <show_bssid>1</show_bssid>
+      <show_ssid>1</show_ssid>
+      <show_scan_result>1</show_scan_result>
+    </wireless_info>
+    <screen_blanking>
+      <blanking_enabled>0</blanking_enabled>
+      <speed_threshold>10</speed_threshold>
+      <blanking_mode>1</blanking_mode>
+    </screen_blanking>
+    <apps_disabled>
+      <application package="com.android.settings"/>
+      <application package="com.google.android.googlequicksearchbox"/>
+      <application package="com.android.chrome"/>
+      <application package="com.google.android.youtube"/>
+      <application package="com.google.android.apps.youtube.music"/>
+      <application package="com.google.android.apps.maps"/>
+      <application package="com.google.android.videos"/>
+      <application package="com.android.vending"/>
+      <application package="com.google.android.gm"/>
+      <application package="com.google.android.apps.photos"/>
+      <application package="com.google.android.apps.tachyon"/>
+      <application package="com.google.android.apps.docs"/>
+      <application package="com.android.contacts"/>
+      <application package="com.google.android.calendar"/>
+    </apps_disabled>
+  </preferences>
+</config>
