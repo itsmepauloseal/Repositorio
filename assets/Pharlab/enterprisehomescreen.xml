@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><config>
+  <kiosk/>
+  <applications>
+    <application label="Velocity" package="com.wavelink.velocity" activity="com.wavelink.velocity.te.SplashActivity"/>
+  </applications>
+  <tools/>
+  <passwords>
+		<admin>fFxzoYTT0uVL8XX+WnwH3DlTSkzN+4jAUbyhNpsfdkk=uJxvY4VyI7xoHUSdhpYexA94eqAJrWBpz1qKh4Y1fgI=</admin>
+  </passwords>
+  <user_options/>
+  <preferences>
+    <admin_inactivity_timeout>600</admin_inactivity_timeout>
+    <orientation>portrait</orientation>
+    <wallpaper>/enterprise/usr/backgrundPharlabMC33x.png</wallpaper>
+    <usb_debugging_disabled>0</usb_debugging_disabled>
+    <icon_label_text_color>#ff380089</icon_label_text_color>
+    <recent_apps_button_disabled>1</recent_apps_button_disabled>
+    <auto_launch_enable>0</auto_launch_enable>
+    <system_settings_restricted>1</system_settings_restricted>
+    <recent_apps_access_disabled>1</recent_apps_access_disabled>
+    <icon_label_background_color>#bfffffff</icon_label_background_color>
+    <kiosk_mode_enabled>0</kiosk_mode_enabled>
+    <title>
+      <value>[serial_number]</value>
+    </title>
+    <title_bar_icon>
+      <title_bar_icon_file>/enterprise/usr/pharlab-logo.png</title_bar_icon_file>
+    </title_bar_icon>
+    <admin_lock_out>
+      <recovery_enabled>1</recovery_enabled>
+      <recovery_timeout>15</recovery_timeout>
+    </admin_lock_out>
+    <wireless_info>
+      <show_ip_address>1</show_ip_address>
+      <show_mac_address>1</show_mac_address>
+      <show_bssid>1</show_bssid>
+      <show_ssid>1</show_ssid>
+      <show_scan_result>1</show_scan_result>
+    </wireless_info>
+    <screen_blanking>
+      <blanking_enabled>0</blanking_enabled>
+      <speed_threshold>10</speed_threshold>
+      <blanking_mode>1</blanking_mode>
+    </screen_blanking>
+  </preferences>
+</config>
