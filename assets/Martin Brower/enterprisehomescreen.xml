@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><config>
   <kiosk/>
   <applications>
-    <application label="OxxRF - Android Client" package="br.com.ventana.oxxrfclient" activity="crc6405915dc76e57ba7d.MainActivity"/>
     <application label="Separação" package="br.seal.Speak2GoSeparacao" activity="br.seal.Speak2GoSeparacao.KClientDlg"/>
   </applications>
   <tools/>
