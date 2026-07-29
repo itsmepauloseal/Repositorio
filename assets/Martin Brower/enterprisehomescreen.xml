@@ -18,10 +18,10 @@
     <wallpaper>/enterprise/usr/MB.png</wallpaper>
     <usb_debugging_disabled>0</usb_debugging_disabled>
     <icon_label_text_color>#ff000000</icon_label_text_color>
-    <recent_apps_button_disabled>1</recent_apps_button_disabled>
+    <recent_apps_button_disabled>0</recent_apps_button_disabled>
     <auto_launch_enable>0</auto_launch_enable>
     <system_settings_restricted>1</system_settings_restricted>
-    <recent_apps_access_disabled>1</recent_apps_access_disabled>
+    <recent_apps_access_disabled>0</recent_apps_access_disabled>
     <icon_label_background_color>#5dffffff</icon_label_background_color>
     <kiosk_mode_enabled>0</kiosk_mode_enabled>
     <title>
