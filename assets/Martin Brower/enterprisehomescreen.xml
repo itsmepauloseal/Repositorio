@@ -2,6 +2,7 @@
   <kiosk/>
   <applications>
     <application label="Separação" package="br.seal.Speak2GoSeparacao" activity="br.seal.Speak2GoSeparacao.KClientDlg"/>
+    <application label="Gravador de Tela - AZ Recorder" package="com.hecorat.screenrecorder.free" activity="com.hecorat.screenrecorderlib.MainActivity"/>
   </applications>
   <tools/>
   <passwords>
